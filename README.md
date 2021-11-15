@@ -6,4 +6,4 @@ The purpose of this analysis is to create a correlation matrix and observe if th
 - Apart from gross vs budget and gross vs votes we don't observe any other greater correlation than 0.5.
 
 # Data reference
-https://www.kaggle.com/datasets?search=movies.csv&datasetsOnly=true
+Movies dataset from [Kaggle](https://www.kaggle.com/datasets?search=movies.csv&datasetsOnly=true)
