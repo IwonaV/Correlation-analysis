@@ -1,4 +1,4 @@
-# Movies-correlation-analysis
+# Correlation-analysis
 The purpose of this analysis is to create a correlation matrix and observe if there are any relationships between the dataset variables.
 
 # Overall Findings
